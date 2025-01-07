@@ -1,4 +1,4 @@
-### Modern weather app
+### Modern weather appp
 So you have a new nice task. You have to reinvent weather task.
 We prepare some HTML for you. It with some mistakes, but don't worry, you still can fix them.
 
